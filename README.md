@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 Me?
 - Distro-hopper 🚀
 - Random developer 🤖
-- More from me -> [click here](www.github.com/@joymurti)
+- More from me -> [click here](https://github.com/@joymurti)
