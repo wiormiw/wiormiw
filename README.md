@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Hi people in the world!</h1>
-</p>
+<h1 align="center">Hi people in the world!</h1>
 
 <!--
 **wiormiw/wiormiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
