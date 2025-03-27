@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 About ME?
 - Distro-hopper 🚀
 - Random developer 🤖
-- Contact me? -> [click here](@wwijoyo2@gmail.com)
