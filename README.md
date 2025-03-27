@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 About ME?
 - Distro-hopper 🚀
 - Random developer 🤖
-- More from me -> [click here](https://github.com/joymurti)
+- Contact me? -> [click here](@wwijoyo2@gmail.com)
