@@ -1,7 +1,4 @@
-<div align="center">
-<pre>
-⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
-</pre>
+<div align="left">
   <img src="https://img.shields.io/badge/Backend%20Developer%20|%20Linux%20Focus-TS%2FJava%2FGo%20|%20Distro%20Hopper-0077B5?style=for-the-badge&logo=code&logoColor=white" alt="Backend Developer Badge"/>
   <h1>Wijoyo (Joy) Raharjo</h1>
 </div>
