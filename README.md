@@ -1,6 +1,8 @@
 <div align="left">
   <h1>I am Wijoyo (JOY) Raharjo - Distro Hopper</h1>
-  ![Backend Developer](https://img.shields.io/badge/Backend_Developer-CachyOS-00E5CE?style=for-the-badge&logo=cachyos&logoColor=black)
+  <p align="center">
+    <img src="https://img.shields.io/badge/Backend_Developer-CachyOS-00E5CE?style=for-the-badge&logo=cachyos&logoColor=black" alt="Backend Developer CachyOS Badge" />
+  </p>
 </div>
 
 ---
