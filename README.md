@@ -1,6 +1,6 @@
 <div align="left">
-  <img src="https://img.shields.io/badge/Backend%20Developer%20|%20Linux%20<3-TS%2FJava%2FGo%20|%20Distro%20Hopper-0077B5?style=for-the-badge&logo=code&logoColor=white" alt="Backend Developer Badge"/>
-  <h1>Wijoyo (Joy) Raharjo</h1>
+  <h1>I am Wijoyo (JOY) Raharjo</h1>
+  <h2>Distro hopper</h2>
 </div>
 
 ---
@@ -30,6 +30,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wiormiw&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Joy's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiormiw&layout=compact&theme=dark&hide_border=true" alt="Joy's Top Languages"/>
 </p>
+
+<img src="https://img.shields.io/badge/Backend%20Developer%20|%20Linux%20<3-TS%2FJava%2FGo%20|%20Currently%20Running%20CachyOS-0077B5?style=for-the-badge&logo=code&logoColor=white" alt="Backend Developer Badge"/>
 
 ---
 
