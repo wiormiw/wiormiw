@@ -1,18 +1,22 @@
-<div align="center">
-  <p align="center"><div align="center">
-  <h3>HI, I AM WIJOYO (JOY) RAHARJO</h3>
-    <img src="https://img.shields.io/badge/Backend_Developer-CachyOS-00E5CE?style=for-the-badge&logo=cachyos&logoColor=black" alt="Backend Developer CachyOS Badge" />
-  </p>
+<div align="left">
+  <h2>HI, I AM WIJOYO (JOY) RAHARJO</h2>
+  <img src="https://img.shields.io/badge/Backend_Developer-CachyOS-00E5CE?style=for-the-badge&logo=cachyos&logoColor=black" alt="Backend Developer CachyOS Badge" />
 </div>
 
 ---
 
-## 💡 About Me?
+## 💡 About Me
 
-> **"Don't be a side character in your own story."**
->
-> I am a dedicated Backend Developer, upgrade BE Skills daily, hope to become better engineer.
+<p align="center">
+  <em>"Don't be a side character in your own story."</em>
+</p>
 
+<p align="center">
+  I am a dedicated <strong>Backend Developer</strong>. <br>
+  I focus on continuously honing my architectural skills, striving to become a more rigorous engineer every day.
+</p>
+
+<br>
 ---
 
 ## 🛠️ My Stacks
