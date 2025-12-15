@@ -1,5 +1,5 @@
 <div align="left">
-  <h2>HI, I AM WIJOYO (JOY) RAHARJO</h2>
+  <h1>HI 👋, I AM WIJOYO (JOY) RAHARJO</h1>
   <img src="https://img.shields.io/badge/Backend_Developer-CachyOS-00E5CE?style=for-the-badge&logo=cachyos&logoColor=black" alt="Backend Developer CachyOS Badge" />
 </div>
 
