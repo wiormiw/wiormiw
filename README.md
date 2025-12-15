@@ -1,14 +1,13 @@
 <div align="center">
-  <p align="center">
-    <strong>HI, I AM WIJOYO (JOY) RAHARJO</strong>
-    <br>
+  <p align="center"><div align="center">
+  <h3>HI, I AM WIJOYO (JOY) RAHARJO</h3>
     <img src="https://img.shields.io/badge/Backend_Developer-CachyOS-00E5CE?style=for-the-badge&logo=cachyos&logoColor=black" alt="Backend Developer CachyOS Badge" />
   </p>
 </div>
 
 ---
 
-## 💡 Philosophy & Core Identity
+## 💡 About Me?
 
 > **"Don't be a side character in your own story."**
 >
@@ -16,7 +15,7 @@
 
 ---
 
-## 🛠️ The Tech Ecosystem (Core Expertise)
+## 🛠️ My Stacks
 
 | Discipline | Key Languages | Core Frameworks / Middleware |
 | :--- | :--- | :--- |
@@ -27,7 +26,7 @@
 
 ---
 
-## 📊 Quick Statistics & Most Used Language
+## 📊 Lame Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wiormiw&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Joy's GitHub Stats"/>
