@@ -31,15 +31,6 @@
 
 ---
 
-## 📊 Lame Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wiormiw&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Joy's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiormiw&layout=compact&theme=dark&hide_border=true" alt="Joy's Top Languages"/>
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
