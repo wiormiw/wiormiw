@@ -24,10 +24,19 @@
 
 | Discipline | Key Languages | Core Frameworks / Middleware |
 | :--- | :--- | :--- |
-| **Backend (Polyglot)** | TypeScript, Java, Golang, C#, Python | Node (Nest, Express, Fastify, Elysia/Bun), Spring Boot, Fiber, ASP.NET Core, FastAPI/Django |
+| **Backend** | TypeScript, Java, Golang, C#, Python | Node (Nest, Express, Fastify), Bun (Elysia/Hono), Spring Boot, Fiber, ASP.NET Core, FastAPI/Django |
 | **Frontend** | React, Vue, TypeScript | Next.js, Nuxt, Tanstack Query, Tailwind CSS |
 | **Data / Tools** | SQL, Message Queue, Search | PostgreSQL, MySQL, MSSQL, Kafka, RabbitMQ, Elastic Search (Basic), Docker |
 | **Operating Systems** | Linux (Die-Hard User) | RHEL, CentOS Stream, Rocky, Fedora, Arch, Debian, Ubuntu |
+
+---
+
+## 📊 Lame Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wiormiw&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Joy's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiormiw&layout=compact&theme=dark&hide_border=true" alt="Joy's Top Languages"/>
+</p>
 
 ---
 
