@@ -22,7 +22,7 @@
 
 ## 🛠️ My Stacks
 
-| Discipline | Key Languages | Core Frameworks / Middleware |
+| Discipline | Key Languages | Core Frameworks |
 | :--- | :--- | :--- |
 | **Backend** | TypeScript, Java, Golang, C#, Python | Node (Nest, Express, Fastify), Bun (Elysia/Hono), Spring Boot, Fiber, ASP.NET Core, FastAPI/Django |
 | **Frontend** | React, Vue, TypeScript | Next.js, Nuxt, Tanstack Query, Tailwind CSS |
