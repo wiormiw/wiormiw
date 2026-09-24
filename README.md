@@ -25,7 +25,7 @@
 | Discipline | Key Languages | Core Frameworks |
 | :--- | :--- | :--- |
 | **Backend** | TypeScript, Java, Golang, C#, Python | Node (Nest, Express, Fastify), Bun (Elysia/Hono), Spring Boot, Fiber, Chi, ASP.NET Core, FastAPI/Django |
-| **Frontend** | React, Vue, TypeScript | Next.js, Nuxt, Tanstack Query, Tailwind CSS |
+| **Frontend** | TypeScript | React, Vue, Next.js, Nuxt, Svelte, SvelteKit, Astro, Tanstack Query, Tailwind CSS |
 | **Data / Tools** | SQL, Message Queue, Search | PostgreSQL, MySQL, MSSQL, Kafka, RabbitMQ, Elastic Search (Basic), Docker |
 | **Operating Systems** | Linux (Die-Hard User) | RHEL, CentOS Stream, Rocky, Fedora, Arch, Debian, Ubuntu |
 
