@@ -55,7 +55,7 @@ internals**.
 
 **Core**
 
-<img src="https://skillicons.dev/icons?i=bun,hono,ts,py,fastapi,postgres,redis,docker&perline=8" alt="Bun, Hono, TypeScript, Python, FastAPI, PostgreSQL, Redis, Docker" />
+<img src="assets/core-stack.svg" alt="Bun, Hono, TypeScript, Python, FastAPI, PostgreSQL, Redis, Docker" />
 
 **Also in production work**
 
