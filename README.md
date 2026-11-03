@@ -26,7 +26,7 @@ internals**.
 
 - 💼 **.NET Developer** at PT Talent Placement Consulting Indonesia: banking back-office automation, SFTP file
   pipelines, SQL Server.
-- 🐍 Building **LazyCVE**: local-first vulnerability intelligence with a Python and FastAPI core, machine learning
+- 🐍 Building [**LazyCVE**](https://github.com/wiormiw/lazy-cve): local-first vulnerability intelligence with a Python and FastAPI core, machine learning
   for exploitation forecasts, and a Bun and Hono gateway.
 - 🛠️ Building **Akashic Records**: a community platform in TypeScript, with a transactional outbox, OpenFGA
   authorization and a Dockerized deployment.
@@ -45,7 +45,7 @@ internals**.
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| **LazyCVE** | Local-first vulnerability intelligence: ingests CISA KEV and EPSS feeds, matches advisories to backend components, and forecasts 30-day exploitation with calibrated XGBoost. REST API, Nuxt dashboard and MCP tools. | Python, FastAPI, SQLAlchemy, Celery, XGBoost, PostgreSQL with pgvector, Kafka, Bun, Hono, Nuxt |
+| [**LazyCVE**](https://github.com/wiormiw/lazy-cve) | Local-first vulnerability intelligence: ingests CISA KEV and EPSS feeds, matches advisories to backend components, and forecasts 30-day exploitation with calibrated XGBoost. REST API, Nuxt dashboard and MCP tools. | Python, FastAPI, SQLAlchemy, Celery, XGBoost, PostgreSQL with pgvector, Kafka, Bun, Hono, Nuxt |
 | [**Akashic Records**](https://github.com/wiormiw/akashic-records) | Genre-specific "realms" (TCG, cosplay, idol, VTuber) with job listings, event RSVPs and a marketplace. Outbox pattern (PostgreSQL to RabbitMQ), realm-scoped authorization, typed SQL, 670+ tests. | TypeScript, Bun, Hono, PostgreSQL, Drizzle, OpenFGA, RabbitMQ, SvelteKit |
 | [**wiormiw-porto**](https://wiormiw-porto.wwijoyo2.workers.dev/) | My portfolio, themed as a Pokemon battle log. | Astro, React, Tailwind, Cloudflare |
 | [**SuggestMe 2.0**](https://github.com/wiormiw/suggestme-2.0) | Food recommendations by mood with Gemini, plus real-time ratings and comments. | ElysiaJS, Drizzle, PostgreSQL, React |
