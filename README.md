@@ -30,6 +30,9 @@ stays in my production toolkit. These days I am also studying **Node.js and Bun 
   for exploitation forecasts, and a Bun and Hono gateway.
 - 🛠️ Building **Akashic Records**: a community platform in TypeScript, with a transactional outbox, OpenFGA
   authorization and a Dockerized deployment.
+- 🎵 Building **old-country**: a self-hosted music player for my offline library and YouTube Music. The API is
+  .NET 11 and C# 15 (minimal APIs, EF Core, PostgreSQL, vertical slices, union results), with yt-dlp for search,
+  playback, downloads and playlist import; a Tauri and Leptos desktop app is next.
 - 🌐 Open to **remote backend roles**.
 
 ## Experience
